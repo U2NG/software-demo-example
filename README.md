@@ -1,5 +1,5 @@
 # Biodiversity Analysis Toolkit
-[![DOI](https://sandbox.zenodo.org/badge/1382738413.svg)](https://handle.test.datacite.org/10.5072/zenodo.607295)
+[![DOI](https://sandbox.zenodo.org/badge/1382738413.svg)](https://sandbox.zenodo.org/records/607295)
 
 ## License
 This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Biodiversity Analysis Toolkit"
+title: "software-demo-example"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Dennis"
@@ -15,5 +15,5 @@ authors:
     given-names: "Karla"
 version: "0.1.0"
 date-released: 2026-02-01
-url: "https://github.com/U2NG/software-demo"
+url: "https://github.com/U2NG/software-demo-example"
 repository-code: "https://github.com/UC-OSPO-Network/software-demo"
